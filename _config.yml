@@ -37,9 +37,9 @@ sass:
   style: compressed
 
 # Build settings
-plugins:
-  - jekyll-admin
-  - jekyll-feed
+#plugins:
+#  - jekyll-admin
+#  - jekyll-feed
 
 # Permalink
 permalink: "blog/:title"
